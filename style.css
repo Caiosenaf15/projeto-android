@@ -156,7 +156,7 @@ ul {
     columns: 2;
     list-style-position: inside;
     text-align: left;
-    padding: 0px 0px 0px 30px;
+    padding-left: 2%;
 }
 .texto_extra {
     padding: 10px;
